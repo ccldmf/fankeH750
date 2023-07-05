@@ -1,2 +1,2 @@
 # fankeH750
-Fanke STM32H750VBT6 board
+Fanke STM32H750VBT6 V1.1 board
